@@ -19,5 +19,5 @@ The slow speeds are due to the timeout and not the fact that this program is wri
 The password list file provided must seperate passwords with a newline.
 
 Usage:
-
+it_arya_770
 ./insta_cracker [username] < [password list file]
